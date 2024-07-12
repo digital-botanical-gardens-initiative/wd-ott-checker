@@ -1,0 +1,3165 @@
+{
+    "results": [
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Animalia",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "animalia",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Metazoa",
+                        "ott_id": 691846,
+                        "rank": "kingdom",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Animalia"],
+                        "tax_sources": [
+                            "silva:D14357/#4",
+                            "ncbi:33208",
+                            "worms:2",
+                            "gbif:1",
+                            "irmng:11"
+                        ],
+                        "unique_name": "Metazoa"
+                    }
+                }
+            ],
+            "name": "animalia"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Virgus",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8333333134651184,
+                    "search_string": "virus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Virgus",
+                        "ott_id": 2851746,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["gbif:4593126", "irmng:1289946"],
+                        "unique_name": "Virgus"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Cirus",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "virus",
+                    "taxon": {
+                        "flags": ["extinct", "incertae_sedis"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cirrus",
+                        "ott_id": 4964720,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Circus", "Cirrhus", "Cirrites", "Cirus"],
+                        "tax_sources": ["gbif:3245200", "irmng:1403014"],
+                        "unique_name": "Cirrus"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Irus",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.75,
+                    "search_string": "virus",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Irus",
+                        "ott_id": 647829,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Irona",
+                            "Irus subgenus Irus",
+                            "Notirus",
+                            "Notopaphia"
+                        ],
+                        "tax_sources": [
+                            "worms:138640",
+                            "ncbi:345401",
+                            "gbif:2287801",
+                            "gbif:4590477",
+                            "irmng:1069734",
+                            "irmng:1280261"
+                        ],
+                        "unique_name": "Irus"
+                    }
+                }
+            ],
+            "name": "virus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Gabala",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8333333134651184,
+                    "search_string": "gaala",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Gabala",
+                        "ott_id": 4239245,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:1369218",
+                            "gbif:1800523",
+                            "irmng:1371018"
+                        ],
+                        "unique_name": "Gabala"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Gaana",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "gaala",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Gaana",
+                        "ott_id": 3156253,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["gbif:4695761"],
+                        "unique_name": "Gaana"
+                    }
+                }
+            ],
+            "name": "gaala"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Stachyris melanothorax",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "stachyris melanothorax",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cyanoderma melanothorax",
+                        "ott_id": 453415,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Myiothera melanothorax",
+                            "Stachyris melanothorax"
+                        ],
+                        "tax_sources": [
+                            "ncbi:1006750",
+                            "gbif:2493433",
+                            "irmng:10591543"
+                        ],
+                        "unique_name": "Cyanoderma melanothorax"
+                    }
+                }
+            ],
+            "name": "stachyris melanothorax"
+        },
+        {
+            "matches": [],
+            "name": "human herpesvirus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Phalacrocorax chalconotus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "phalacrocorax chalconotus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Leucocarbo chalconotus",
+                        "ott_id": 480890,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Eulococarbo chalconotus",
+                            "Graculus chalconotus",
+                            "Phalacrocorax carunculatus chalconotus",
+                            "Phalacrocorax chalconotus"
+                        ],
+                        "tax_sources": [
+                            "ncbi:146625",
+                            "worms:343941",
+                            "gbif:5789268",
+                            "irmng:10216391"
+                        ],
+                        "unique_name": "Leucocarbo chalconotus"
+                    }
+                }
+            ],
+            "name": "phalacrocorax chalconotus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Heteromys australis",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "heteromys australis",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Heteromys australis",
+                        "ott_id": 849647,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:435255",
+                            "gbif:2439568",
+                            "irmng:10762844"
+                        ],
+                        "unique_name": "Heteromys australis"
+                    }
+                }
+            ],
+            "name": "heteromys australis"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Gyptis brevipalapa",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis brevipalapa",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Podarkeopsis brevipalpa",
+                        "ott_id": 4980394,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Gyptis brevipalapa",
+                            "Gyptis brevipalpa",
+                            "Oxydromus brevipalpa"
+                        ],
+                        "tax_sources": [
+                            "worms:157532",
+                            "gbif:2309035",
+                            "irmng:10232403",
+                            "irmng:10822308"
+                        ],
+                        "unique_name": "Podarkeopsis brevipalpa"
+                    }
+                }
+            ],
+            "name": "gyptis brevipalapa"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Gyptis fasciatus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis fasciatus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Oxydromus flexuosus",
+                        "ott_id": 7488607,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Gyptis fasciatus",
+                            "Nereis flexuosa",
+                            "Ophiodromus flexuosus",
+                            "Ophiodromus vittatus",
+                            "Oxydromus fasciatus",
+                            "Oxydromus vittatus",
+                            "Podarke albocincta"
+                        ],
+                        "tax_sources": [
+                            "worms:710680",
+                            "gbif:7189800",
+                            "irmng:10198918",
+                            "irmng:11856896"
+                        ],
+                        "unique_name": "Oxydromus flexuosus"
+                    }
+                }
+            ],
+            "name": "gyptis fasciatus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Psammomys",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "psammomys",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Psammomys",
+                        "ott_id": 674916,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Parameriones"],
+                        "tax_sources": [
+                            "ncbi:48138",
+                            "gbif:2437848",
+                            "irmng:1418850",
+                            "irmng:1418800"
+                        ],
+                        "unique_name": "Psammomys"
+                    }
+                },
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Psammomys",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "psammomys",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Microtus",
+                        "ott_id": 241405,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Agricola",
+                            "Alexandromys",
+                            "Ammomys",
+                            "Arbusticola",
+                            "Arvalomys",
+                            "Arvicola didelta",
+                            "Arvicola involuta",
+                            "Aulacomys",
+                            "Bicunedens",
+                            "Campicola",
+                            "Campicoloma",
+                            "Chilotus",
+                            "Euarvicola",
+                            "Herpetomys",
+                            "Hyrcanicola",
+                            "Iberomys",
+                            "Isodelta",
+                            "Meridiopitymys",
+                            "Microtus didelta",
+                            "Micrurus",
+                            "Mynomes",
+                            "Myonomes",
+                            "Myonomus",
+                            "Myonotes",
+                            "Myxomes",
+                            "Oecomicrotus",
+                            "Orthriomys",
+                            "Pallasiinus",
+                            "Parapitymys",
+                            "Pedomys",
+                            "Pinemys",
+                            "Pitymys",
+                            "Pitymys dideltus",
+                            "Pitymys involutus",
+                            "Pityomys",
+                            "Psammomys",
+                            "Steneocranius",
+                            "Stenocranius",
+                            "Sumeriomys",
+                            "Suranomys",
+                            "Sylvicola",
+                            "Terricola",
+                            "Tetramerodon",
+                            "Tibercola",
+                            "Tyrrhenicola",
+                            "Vocalomys"
+                        ],
+                        "tax_sources": [
+                            "ncbi:10053",
+                            "gbif:2438591",
+                            "irmng:1325684"
+                        ],
+                        "unique_name": "Microtus"
+                    }
+                }
+            ],
+            "name": "psammomys"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Leptosomus discolor",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "leptosomus discolor",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Leptosomus discolor",
+                        "ott_id": 897867,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:188344", "irmng:10218085"],
+                        "unique_name": "Leptosomus discolor"
+                    }
+                }
+            ],
+            "name": "leptosomus discolor"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Aaaba",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "aaaaba",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Aaaba",
+                        "ott_id": 5087130,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Alcinous"],
+                        "tax_sources": [
+                            "ncbi:1580657",
+                            "gbif:3260806",
+                            "irmng:1007888"
+                        ],
+                        "unique_name": "Aaaba"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Aaaba",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "aaaaba",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Crellastrina",
+                        "ott_id": 2838793,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Aaaba", "Aaba"],
+                        "tax_sources": [
+                            "worms:131937",
+                            "gbif:2243284",
+                            "irmng:1025271"
+                        ],
+                        "unique_name": "Crellastrina"
+                    }
+                }
+            ],
+            "name": "aaaaba"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Calloselasma rhodostoma",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "calloselasma rhodostoma",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Calloselasma rhodostoma",
+                        "ott_id": 652544,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Agkistrodon annamensis",
+                            "Agkistrodon rhodostoma",
+                            "Akistrodon rhodostoma",
+                            "Ancistrodon annamensis",
+                            "Ancistrodon rhodostoma",
+                            "Calloselasma annamensis",
+                            "Calloselasma rhodostoma annamensis",
+                            "Leiolepis rhodostoma",
+                            "Trigonocephalus rhodostoma"
+                        ],
+                        "tax_sources": [
+                            "ncbi:8717",
+                            "gbif:2443815",
+                            "irmng:11383321"
+                        ],
+                        "unique_name": "Calloselasma rhodostoma"
+                    }
+                }
+            ],
+            "name": "calloselasma rhodostoma"
+        },
+        {
+            "matches": [],
+            "name": "herpesvirales"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Hepatitis",
+                    "nomenclature_code": "undefined",
+                    "score": 0.7777777910232544,
+                    "search_string": "hepatitis b",
+                    "taxon": {
+                        "flags": ["hidden", "barren", "major_rank_conflict"],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Hepatitis",
+                        "ott_id": 5272345,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["irmng:1382421"],
+                        "unique_name": "Hepatitis"
+                    }
+                }
+            ],
+            "name": "hepatitis b"
+        },
+        {
+            "matches": [],
+            "name": "vaccinium subg."
+        },
+        {
+            "matches": [],
+            "name": "inioidea"
+        },
+        {
+            "matches": [],
+            "name": "prokaryota"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Canis lupus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "canis lupus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Canis lupus",
+                        "ott_id": 247341,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Aenocyon milleri",
+                            "Canis dingo",
+                            "Canis familiaris",
+                            "Canis furlongi",
+                            "Canis lycaon",
+                            "Canis milleri",
+                            "Canis nubilus",
+                            "Canis occidentalis",
+                            "Canis pambasileus",
+                            "Canis petrolei",
+                            "Canis tundrarum",
+                            "Canis variabilis",
+                            "Lupus gigas",
+                            "Lupus lupus"
+                        ],
+                        "tax_sources": [
+                            "ncbi:9612",
+                            "gbif:5219173",
+                            "irmng:11407661"
+                        ],
+                        "unique_name": "Canis lupus"
+                    }
+                }
+            ],
+            "name": "canis lupus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Gyptis roseus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis roseus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Neogyptis rosea",
+                        "ott_id": 4980501,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Gyptis rosea",
+                            "Gyptis roseus",
+                            "Hesionidae gen. sp. MS-2012",
+                            "Ophiodromus roseus"
+                        ],
+                        "tax_sources": [
+                            "ncbi:1137987",
+                            "worms:743514",
+                            "gbif:7387344",
+                            "irmng:11774783"
+                        ],
+                        "unique_name": "Neogyptis rosea"
+                    }
+                }
+            ],
+            "name": "gyptis roseus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Protista",
+                    "nomenclature_code": "undefined",
+                    "score": 1.0,
+                    "search_string": "protista",
+                    "taxon": {
+                        "flags": ["hidden", "barren", "inconsistent"],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Protista",
+                        "ott_id": 5267059,
+                        "rank": "kingdom",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["irmng:16"],
+                        "unique_name": "Protista"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Proutista",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8888888955116272,
+                    "search_string": "protista",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Proutista",
+                        "ott_id": 3469133,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Afakia", "Arfaka", "Assamia", "Sardis"],
+                        "tax_sources": [
+                            "ncbi:1582034",
+                            "gbif:2062851",
+                            "irmng:1346869"
+                        ],
+                        "unique_name": "Proutista"
+                    }
+                }
+            ],
+            "name": "protista"
+        },
+        {
+            "matches": [],
+            "name": "caudovirales"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Echiura",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "echiura",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Echiura",
+                        "ott_id": 954036,
+                        "rank": "subclass",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:6427",
+                            "worms:1269",
+                            "irmng:1387"
+                        ],
+                        "unique_name": "Echiura"
+                    }
+                }
+            ],
+            "name": "echiura"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Verae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "ferae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Verae",
+                        "ott_id": 4548414,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["gbif:1265862"],
+                        "unique_name": "Verae"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Fera",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.75,
+                    "search_string": "ferae",
+                    "taxon": {
+                        "flags": [
+                            "hidden",
+                            "barren",
+                            "extinct",
+                            "incertae_sedis"
+                        ],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Fera",
+                        "ott_id": 5036667,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["irmng:1377397"],
+                        "unique_name": "Fera"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Fera",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.75,
+                    "search_string": "ferae",
+                    "taxon": {
+                        "flags": ["extinct", "incertae_sedis"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Fera",
+                        "ott_id": 6289801,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["gbif:6006765"],
+                        "unique_name": "Fera"
+                    }
+                }
+            ],
+            "name": "ferae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Myoneridae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "myoviridae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cuspidariidae",
+                        "ott_id": 357178,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Cardiomyidae", "Myoneridae", "Neaeridae"],
+                        "tax_sources": [
+                            "worms:1788",
+                            "ncbi:61328",
+                            "gbif:3470",
+                            "irmng:105063"
+                        ],
+                        "unique_name": "Cuspidariidae"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Myobiidae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.7777777910232544,
+                    "search_string": "myoviridae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Myobiidae",
+                        "ott_id": 226544,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:1046726",
+                            "gbif:2813",
+                            "irmng:108661"
+                        ],
+                        "unique_name": "Myobiidae"
+                    }
+                }
+            ],
+            "name": "myoviridae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Dicrocoelium dendriticum",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "dicrocoelium dendriticum",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Dicrocoelium dendriticum",
+                        "ott_id": 509051,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:57078", "irmng:11272249"],
+                        "unique_name": "Dicrocoelium dendriticum"
+                    }
+                }
+            ],
+            "name": "dicrocoelium dendriticum"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Siphoderidae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8333333134651184,
+                    "search_string": "siphoviridae",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cryptogonimidae",
+                        "ott_id": 7963,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Acanthocollaritrematidae",
+                            "Acanthostomidae",
+                            "Acanthostominae",
+                            "Acetodextrinae",
+                            "Biovariinae",
+                            "Caecincolinae",
+                            "Cryptocollaritrematinae",
+                            "Cryptogoniminae",
+                            "Diplopharyngotrematinae",
+                            "Exorchiinae",
+                            "Harutrematinae",
+                            "Isocoelidae",
+                            "Metadeninae",
+                            "Multigonotylinae",
+                            "Neochasminae",
+                            "Novemtestinae",
+                            "Orientodiploproctodaeinae",
+                            "Polyorchitrematinae",
+                            "Pseudexorchiinae",
+                            "Pseudometadeninae",
+                            "Siphoderidae",
+                            "Siphoderinae",
+                            "Tubanguiinae"
+                        ],
+                        "tax_sources": [
+                            "ncbi:116893",
+                            "worms:108440",
+                            "gbif:3203",
+                            "irmng:110724",
+                            "irmng:111351",
+                            "irmng:117967"
+                        ],
+                        "unique_name": "Cryptogonimidae"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Siphoniidae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8181818127632141,
+                    "search_string": "siphoviridae",
+                    "taxon": {
+                        "flags": [
+                            "extinct",
+                            "major_rank_conflict",
+                            "incertae_sedis"
+                        ],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": true,
+                        "name": "Siphoniidae",
+                        "ott_id": 2842959,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["gbif:4582609", "irmng:119143"],
+                        "unique_name": "Siphoniidae"
+                    }
+                }
+            ],
+            "name": "siphoviridae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Mya arenaria",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "mya arenaria",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Mya arenaria",
+                        "ott_id": 7366,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Mya acuta",
+                            "Mya acuta mercenaria",
+                            "Mya alba",
+                            "Mya arenaria corbuloides",
+                            "Mya arenaria ovata",
+                            "Mya areneria",
+                            "Mya communis",
+                            "Mya corpulenta",
+                            "Mya declivis",
+                            "Mya elongata",
+                            "Mya hemphilli",
+                            "Mya japonica",
+                            "Mya lata",
+                            "Mya oonogai",
+                            "Mya subovata",
+                            "Mya subtruncata",
+                            "Sphenia ovoidea"
+                        ],
+                        "tax_sources": [
+                            "worms:140430",
+                            "ncbi:6604",
+                            "ncbi:1980395",
+                            "gbif:2288945",
+                            "gbif:7791733",
+                            "irmng:10837781",
+                            "irmng:10241442",
+                            "irmng:10861663"
+                        ],
+                        "unique_name": "Mya arenaria"
+                    }
+                }
+            ],
+            "name": "mya arenaria"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Lactarius deliciosus",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "lactarius deliciosus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Lactarius deliciosus",
+                        "ott_id": 54236,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Agaricus deliciosus",
+                            "Agaricus deliciosus deliciosus",
+                            "Agaricus deliciosus lamelliporus",
+                            "Agaricus deliciosus var. deliciosus",
+                            "Agaricus deliciosus var. lamelliporus",
+                            "Galorrheus deliciosus",
+                            "Lactarius deliciosus abietinus",
+                            "Lactarius deliciosus aeruginosus",
+                            "Lactarius deliciosus areolatus",
+                            "Lactarius deliciosus atrovirens",
+                            "Lactarius deliciosus deliciosus",
+                            "Lactarius deliciosus f. deliciosus",
+                            "Lactarius deliciosus f. laeticolor",
+                            "Lactarius deliciosus f. rubescens",
+                            "Lactarius deliciosus f. virescens",
+                            "Lactarius deliciosus indigoides",
+                            "Lactarius deliciosus japonicus",
+                            "Lactarius deliciosus ladaniferae",
+                            "Lactarius deliciosus laeticolor",
+                            "Lactarius deliciosus lamelliporus",
+                            "Lactarius deliciosus lateritius",
+                            "Lactarius deliciosus olivaceosordidus",
+                            "Lactarius deliciosus piceae",
+                            "Lactarius deliciosus picei",
+                            "Lactarius deliciosus piceus",
+                            "Lactarius deliciosus pini",
+                            "Lactarius deliciosus pinicola",
+                            "Lactarius deliciosus rubescens",
+                            "Lactarius deliciosus tenuis",
+                            "Lactarius deliciosus var. abietinus",
+                            "Lactarius deliciosus var. aeruginosus",
+                            "Lactarius deliciosus var. areolatus",
+                            "Lactarius deliciosus var. atrovirens",
+                            "Lactarius deliciosus var. deliciosus",
+                            "Lactarius deliciosus var. indigoides",
+                            "Lactarius deliciosus var. japonicus",
+                            "Lactarius deliciosus var. ladaniferae",
+                            "Lactarius deliciosus var. lamelliporus",
+                            "Lactarius deliciosus var. lateritius",
+                            "Lactarius deliciosus var. olivaceosordidus",
+                            "Lactarius deliciosus var. piceae",
+                            "Lactarius deliciosus var. piceus",
+                            "Lactarius deliciosus var. pini",
+                            "Lactarius deliciosus var. pinicola",
+                            "Lactarius deliciosus var. tenuis",
+                            "Lactarius deliciosus var. violascens",
+                            "Lactarius deliciosus violascens",
+                            "Lactarius deliciosus virescens",
+                            "Lactarius japonicus",
+                            "Lactarius laeticolor",
+                            "Lactarius lamelliporus",
+                            "Lactarius lateritius",
+                            "Lactifluus deliciosus"
+                        ],
+                        "tax_sources": [
+                            "if:224737",
+                            "ncbi:55514",
+                            "ncbi:457101",
+                            "ncbi:457100",
+                            "ncbi:457093",
+                            "gbif:5248629",
+                            "irmng:11358937"
+                        ],
+                        "unique_name": "Lactarius deliciosus"
+                    }
+                }
+            ],
+            "name": "lactarius deliciosus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Podosiridae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.9090909361839294,
+                    "search_string": "podoviridae",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Podosiridae",
+                        "ott_id": 5741906,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["worms:488309", "gbif:8161144"],
+                        "unique_name": "Podosiridae"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Podoceridae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8181818127632141,
+                    "search_string": "podoviridae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Podoceridae",
+                        "ott_id": 407290,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "worms:101405",
+                            "ncbi:371457",
+                            "gbif:4457",
+                            "irmng:110217"
+                        ],
+                        "unique_name": "Podoceridae"
+                    }
+                }
+            ],
+            "name": "podoviridae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Plasmodium berghei",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "plasmodium berghei",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Plasmodium berghei",
+                        "ott_id": 724398,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["silva:M19712", "ncbi:5821"],
+                        "unique_name": "Plasmodium berghei"
+                    }
+                }
+            ],
+            "name": "plasmodium berghei"
+        },
+        {
+            "matches": [],
+            "name": "dicotyledones"
+        },
+        {
+            "matches": [],
+            "name": "theope sticheli"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Crassostrea gigas",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "crassostrea gigas",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Magallana gigas",
+                        "ott_id": 987409,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Crassostrea gigas",
+                            "Crassostrea laperousii",
+                            "Crassostrea posjetica",
+                            "Crassostrea talienwhanensis",
+                            "Dioeciostrea hispaniola",
+                            "Lopha posjetica",
+                            "Lopha posjetica beringi",
+                            "Lopha posjetica newelskyi",
+                            "Lopha posjetica zawoikoi",
+                            "Ostraea cymbaeformis",
+                            "Ostraea rostralis",
+                            "Ostrea chemnitzii elongata",
+                            "Ostrea cymbaeformis",
+                            "Ostrea gigas",
+                            "Ostrea gigas tientsiensis",
+                            "Ostrea gravitesta",
+                            "Ostrea laperousii",
+                            "Ostrea posjetica",
+                            "Ostrea rostralis",
+                            "Ostrea talienwhanensis"
+                        ],
+                        "tax_sources": [
+                            "worms:836033",
+                            "ncbi:29159",
+                            "ncbi:2171618",
+                            "gbif:7820753"
+                        ],
+                        "unique_name": "Magallana gigas"
+                    }
+                }
+            ],
+            "name": "crassostrea gigas"
+        },
+        {
+            "matches": [],
+            "name": "cytomegalovirus"
+        },
+        {
+            "matches": [],
+            "name": "vaccinium sect."
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Lutreola",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "lutreola",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Mustela",
+                        "ott_id": 923108,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Arctogale",
+                            "Cabreragale",
+                            "Cryptomustela",
+                            "Cyanomyonax",
+                            "Cynomyanax",
+                            "Cynomyonax",
+                            "Eumustela",
+                            "Faetorius",
+                            "Foetorius",
+                            "Gale",
+                            "Grammogale",
+                            "Gymnopus",
+                            "Hydromustela",
+                            "Ictis",
+                            "Kolonocus",
+                            "Kolonokus",
+                            "Lutreola",
+                            "Mustelina",
+                            "Mustella",
+                            "Neogale",
+                            "Pictorius",
+                            "Plesiogale",
+                            "Pocockictis",
+                            "Putorices",
+                            "Putorius",
+                            "Vison"
+                        ],
+                        "tax_sources": [
+                            "ncbi:9665",
+                            "gbif:2433922",
+                            "irmng:1357619",
+                            "irmng:1373316",
+                            "irmng:1245939"
+                        ],
+                        "unique_name": "Mustela"
+                    }
+                }
+            ],
+            "name": "lutreola"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Acrochaene punctata",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "acrochaene punctata",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Bulbophyllum kingii",
+                        "ott_id": 3993038,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Acrochaene punctata",
+                            "Monomeria punctata",
+                            "Phyllorkis kingii"
+                        ],
+                        "tax_sources": ["gbif:2795403"],
+                        "unique_name": "Bulbophyllum kingii"
+                    }
+                }
+            ],
+            "name": "acrochaene punctata"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Gyptis lobatus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis lobatus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Gyptis lobatus",
+                        "ott_id": 4980514,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Oxydromus lobatus"],
+                        "tax_sources": ["worms:333527", "irmng:10240598"],
+                        "unique_name": "Gyptis lobatus"
+                    }
+                }
+            ],
+            "name": "gyptis lobatus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Salamandra",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "salamandra",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Salamandra",
+                        "ott_id": 115714,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Algiandra",
+                            "Alpandra",
+                            "Corsandra",
+                            "Mimandra",
+                            "Oriandra"
+                        ],
+                        "tax_sources": [
+                            "ncbi:57569",
+                            "gbif:2431473",
+                            "irmng:1023258"
+                        ],
+                        "unique_name": "Salamandra"
+                    }
+                }
+            ],
+            "name": "salamandra"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Cyphorhinus arada",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "cyphorhinus arada",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cyphorhinus arada",
+                        "ott_id": 881734,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Cyphorhinus aradus"],
+                        "tax_sources": ["ncbi:241551", "irmng:11409917"],
+                        "unique_name": "Cyphorhinus arada"
+                    }
+                }
+            ],
+            "name": "cyphorhinus arada"
+        },
+        {
+            "matches": [],
+            "name": "aloe ruffingiana"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Mytilus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "mytilus",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Mytilus",
+                        "ott_id": 1025560,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Crassimytilus",
+                            "Crenomytilus",
+                            "Eumytilus",
+                            "Mitilus",
+                            "Mitylus",
+                            "Mylilus",
+                            "Myrtilus",
+                            "Mytelus",
+                            "Mythus",
+                            "Mytilas",
+                            "Mytilis",
+                            "Mytillus",
+                            "Mytulus",
+                            "Pacifimytilus"
+                        ],
+                        "tax_sources": [
+                            "worms:138228",
+                            "ncbi:6548",
+                            "gbif:2285679",
+                            "irmng:1260439"
+                        ],
+                        "unique_name": "Mytilus"
+                    }
+                }
+            ],
+            "name": "mytilus"
+        },
+        {
+            "matches": [],
+            "name": "picornavirales"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Opisthothylax",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8461538553237915,
+                    "search_string": "opisthothelae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Opisthothylax",
+                        "ott_id": 645881,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:187484",
+                            "gbif:2426512",
+                            "irmng:1019954"
+                        ],
+                        "unique_name": "Opisthothylax"
+                    }
+                }
+            ],
+            "name": "opisthothelae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Ascosiidae",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.800000011920929,
+                    "search_string": "ascoviridae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Ascosiidae",
+                        "ott_id": 4149012,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "worms:110727",
+                            "gbif:5794",
+                            "irmng:115517"
+                        ],
+                        "unique_name": "Ascosiidae"
+                    }
+                }
+            ],
+            "name": "ascoviridae"
+        },
+        {
+            "matches": [],
+            "name": "tymoviridae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Acanthephippium",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "acanthephippium",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Acanthophippium",
+                        "ott_id": 209837,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Acanthephippium"],
+                        "tax_sources": [
+                            "ncbi:78686",
+                            "gbif:7320949",
+                            "gbif:8366990"
+                        ],
+                        "unique_name": "Acanthophippium"
+                    }
+                }
+            ],
+            "name": "acanthephippium"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Rhopalura pelseneeri",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "rhopalura pelseneeri",
+                    "taxon": {
+                        "flags": ["hidden"],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Rhopalura pelseneeri",
+                        "ott_id": 3684287,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Rhopalura pelseeneri"],
+                        "tax_sources": [
+                            "worms:237842",
+                            "irmng:10000186",
+                            "irmng:10813831"
+                        ],
+                        "unique_name": "Rhopalura pelseneeri"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Rhopalura pelseeneri",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8999999761581421,
+                    "search_string": "rhopalura pelseneeri",
+                    "taxon": {
+                        "flags": ["hidden"],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Rhopalura pelseneeri",
+                        "ott_id": 3684287,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Rhopalura pelseeneri"],
+                        "tax_sources": [
+                            "worms:237842",
+                            "irmng:10000186",
+                            "irmng:10813831"
+                        ],
+                        "unique_name": "Rhopalura pelseneeri"
+                    }
+                },
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Rhopalione pelseneeri",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8095238208770752,
+                    "search_string": "rhopalura pelseneeri",
+                    "taxon": {
+                        "flags": ["hidden"],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Rhopalione pelseneeri",
+                        "ott_id": 5091109,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "worms:262848",
+                            "gbif:2201219",
+                            "irmng:10802742"
+                        ],
+                        "unique_name": "Rhopalione pelseneeri"
+                    }
+                }
+            ],
+            "name": "rhopalura pelseneeri"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Megalobulimus popelairianus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "megalobulimus popelairianus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Megalobulimus popelairianus",
+                        "ott_id": 548991,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Megalobulimus thammianus"],
+                        "tax_sources": ["ncbi:1087358"],
+                        "unique_name": "Megalobulimus popelairianus"
+                    }
+                }
+            ],
+            "name": "megalobulimus popelairianus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Ectoedemia alexandria",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "ectoedemia alexandria",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Fomoria alexandria",
+                        "ott_id": 7724364,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Ectoedemia alexandria"],
+                        "tax_sources": ["gbif:9470992"],
+                        "unique_name": "Fomoria alexandria"
+                    }
+                }
+            ],
+            "name": "ectoedemia alexandria"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Bellevalia paradoxa",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "bellevalia paradoxa",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Bellevalia pycnantha",
+                        "ott_id": 3969629,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Bellevalia acutifolia",
+                            "Bellevalia elwendica",
+                            "Bellevalia paradoxa",
+                            "Botryanthus paradoxus",
+                            "Hyacinthella paradoxa",
+                            "Hyacinthella pycnantha",
+                            "Hyacinthus elwendius",
+                            "Hyacinthus paradoxus",
+                            "Hyacinthus pycnanthus",
+                            "Muscari acutifolium",
+                            "Muscari elwendium",
+                            "Muscari paradoxum",
+                            "Muscari pycnanthum",
+                            "Pseudomuscari acutifolium",
+                            "Pseudomuscari paradoxum"
+                        ],
+                        "tax_sources": ["ncbi:1315757", "gbif:2771873"],
+                        "unique_name": "Bellevalia pycnantha"
+                    }
+                }
+            ],
+            "name": "bellevalia paradoxa"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Tetrapoda",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "tetrapoda",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Tetrapoda",
+                        "ott_id": 229562,
+                        "rank": "superclass",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:32523", "worms:1831"],
+                        "unique_name": "Tetrapoda"
+                    }
+                }
+            ],
+            "name": "tetrapoda"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Xiphosura",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "xiphosura",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Xiphosura",
+                        "ott_id": 1041486,
+                        "rank": "order",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:6845", "irmng:10685"],
+                        "unique_name": "Xiphosura"
+                    }
+                },
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Xiphosura",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "xiphosura",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Limulus",
+                        "ott_id": 1041449,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Limula", "Xiphosura"],
+                        "tax_sources": [
+                            "ncbi:6849",
+                            "worms:150512",
+                            "gbif:1010609",
+                            "irmng:1331221"
+                        ],
+                        "unique_name": "Limulus"
+                    }
+                }
+            ],
+            "name": "xiphosura"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Lychnis flos-cuculi",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "lychnis flos-cuculi",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Silene flos-cuculi",
+                        "ott_id": 569458,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Agrostemma flos-cuculi",
+                            "Agrostemma lusitanica",
+                            "Coccyganthe flos-cuculi",
+                            "Coccyganthe pratensis",
+                            "Coccyganthe tragi",
+                            "Coronaria flos-cuculi",
+                            "Floscuculi pratense",
+                            "Lychnis coccugosantha",
+                            "Lychnis cyrilli",
+                            "Lychnis flos-cuculi",
+                            "Lychnis flos-cuculi congesta",
+                            "Lychnis flos-cuculi cyrilli",
+                            "Lychnis flos-cuculi flos-cuculi",
+                            "Lychnis laciniata",
+                            "Lychnis laciniflora",
+                            "Lychnis lusitanica",
+                            "Lychnis plumaria",
+                            "Lychnis quadridentata",
+                            "Melandrium flos-cuculi",
+                            "Silene cuculi"
+                        ],
+                        "tax_sources": [
+                            "ncbi:42036",
+                            "gbif:5384738",
+                            "irmng:11223284"
+                        ],
+                        "unique_name": "Silene flos-cuculi"
+                    }
+                }
+            ],
+            "name": "lychnis flos-cuculi"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Hydrophasianus chirurgus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "hydrophasianus chirurgus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Hydrophasianus chirurgus",
+                        "ott_id": 977453,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Tringa chirurgus"],
+                        "tax_sources": [
+                            "ncbi:118785",
+                            "gbif:2481840",
+                            "irmng:10931277"
+                        ],
+                        "unique_name": "Hydrophasianus chirurgus"
+                    }
+                }
+            ],
+            "name": "hydrophasianus chirurgus"
+        },
+        {
+            "matches": [],
+            "name": "rubus subg."
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Neorites",
+                    "nomenclature_code": "ICN",
+                    "score": 0.75,
+                    "search_string": "neornithes",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Neorites",
+                        "ott_id": 603577,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:83728",
+                            "gbif:7286948",
+                            "irmng:1291963"
+                        ],
+                        "unique_name": "Neorites"
+                    }
+                }
+            ],
+            "name": "neornithes"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Tadorninae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "tadorninae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Tadorninae",
+                        "ott_id": 7068148,
+                        "rank": "subfamily",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:2068719"],
+                        "unique_name": "Tadorninae"
+                    }
+                }
+            ],
+            "name": "tadorninae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Gyptis brevipalpa",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis brevipalpa",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Podarkeopsis brevipalpa",
+                        "ott_id": 4980394,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Gyptis brevipalapa",
+                            "Gyptis brevipalpa",
+                            "Oxydromus brevipalpa"
+                        ],
+                        "tax_sources": [
+                            "worms:157532",
+                            "gbif:2309035",
+                            "irmng:10232403",
+                            "irmng:10822308"
+                        ],
+                        "unique_name": "Podarkeopsis brevipalpa"
+                    }
+                }
+            ],
+            "name": "gyptis brevipalpa"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Gyptis rosea",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis rosea",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Gyptis rosea",
+                        "ott_id": 585346,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:378357",
+                            "worms:130157",
+                            "gbif:8920324",
+                            "irmng:10240337"
+                        ],
+                        "unique_name": "Gyptis rosea"
+                    }
+                },
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Gyptis rosea",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis rosea",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Neogyptis rosea",
+                        "ott_id": 4980501,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Gyptis rosea",
+                            "Gyptis roseus",
+                            "Hesionidae gen. sp. MS-2012",
+                            "Ophiodromus roseus"
+                        ],
+                        "tax_sources": [
+                            "ncbi:1137987",
+                            "worms:743514",
+                            "gbif:7387344",
+                            "irmng:11774783"
+                        ],
+                        "unique_name": "Neogyptis rosea"
+                    }
+                },
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Gyptis rosea",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "gyptis rosea",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Gyptis propinqua",
+                        "ott_id": 64302,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Gyptis propinquus",
+                            "Gyptis rosea",
+                            "Oxydromus propinquus"
+                        ],
+                        "tax_sources": [
+                            "ncbi:378364",
+                            "worms:130156",
+                            "gbif:5194144",
+                            "gbif:5712803",
+                            "irmng:10822309",
+                            "irmng:11113699"
+                        ],
+                        "unique_name": "Gyptis propinqua"
+                    }
+                }
+            ],
+            "name": "gyptis rosea"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Intoshia major",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "intoshia major",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Intoshia major",
+                        "ott_id": 3684301,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Rhopalura major"],
+                        "tax_sources": [
+                            "worms:119169",
+                            "gbif:2509133",
+                            "irmng:11054525"
+                        ],
+                        "unique_name": "Intoshia major"
+                    }
+                }
+            ],
+            "name": "intoshia major"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Paraliparis brunneus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "paraliparis brunneus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Paraliparis brunneus",
+                        "ott_id": 3631820,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "worms:274560",
+                            "gbif:2336282",
+                            "irmng:10145076"
+                        ],
+                        "unique_name": "Paraliparis brunneus"
+                    }
+                }
+            ],
+            "name": "paraliparis brunneus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Pavo cristatus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "pavo cristatus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Pavo cristatus",
+                        "ott_id": 453575,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:9049",
+                            "gbif:9451184",
+                            "irmng:11160615"
+                        ],
+                        "unique_name": "Pavo cristatus"
+                    }
+                }
+            ],
+            "name": "pavo cristatus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Cerocephalinae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "cerocephalinae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cerocephalinae",
+                        "ott_id": 287789,
+                        "rank": "subfamily",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:405280"],
+                        "unique_name": "Cerocephalinae"
+                    }
+                }
+            ],
+            "name": "cerocephalinae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Palaeognathae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "palaeognathae",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Palaeognathae",
+                        "ott_id": 81443,
+                        "rank": "superorder",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:8783"],
+                        "unique_name": "Palaeognathae"
+                    }
+                }
+            ],
+            "name": "palaeognathae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Erinaceinae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "erinaceinae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Erinaceinae",
+                        "ott_id": 805540,
+                        "rank": "subfamily",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:30577"],
+                        "unique_name": "Erinaceinae"
+                    }
+                }
+            ],
+            "name": "erinaceinae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Mygalomorphae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "mygalomorphae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Mygalomorphae",
+                        "ott_id": 399421,
+                        "rank": "suborder",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Orthognatha"],
+                        "tax_sources": ["ncbi:6894"],
+                        "unique_name": "Mygalomorphae"
+                    }
+                }
+            ],
+            "name": "mygalomorphae"
+        },
+        {
+            "matches": [],
+            "name": "tethytheria"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Selachimorpha",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "selachimorpha",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Selachii",
+                        "ott_id": 78477,
+                        "rank": "infraclass",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Selachimorpha"],
+                        "tax_sources": ["ncbi:119203", "worms:368408"],
+                        "unique_name": "Selachii"
+                    }
+                }
+            ],
+            "name": "selachimorpha"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Mesothelae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "mesothelae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Mesothelae",
+                        "ott_id": 49688,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:58762"],
+                        "unique_name": "Mesothelae"
+                    }
+                }
+            ],
+            "name": "mesothelae"
+        },
+        {
+            "matches": [],
+            "name": "ratitae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Equus africanus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "equus africanus",
+                    "taxon": {
+                        "flags": ["infraspecific"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Equus asinus africanus",
+                        "ott_id": 519153,
+                        "rank": "subspecies",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Equus africanus",
+                            "Equus africanus asinus"
+                        ],
+                        "tax_sources": ["ncbi:582580", "gbif:5787168"],
+                        "unique_name": "Equus asinus africanus"
+                    }
+                }
+            ],
+            "name": "equus africanus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Lemuriformes",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "lemuriformes",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Lemuriformes",
+                        "ott_id": 702142,
+                        "rank": "infraorder",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:376915"],
+                        "unique_name": "Lemuriformes"
+                    }
+                }
+            ],
+            "name": "lemuriformes"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Camelus",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "camelus",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Camelus",
+                        "ott_id": 510767,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Camelius",
+                            "Camellus",
+                            "Camelus dromedarius hybridus",
+                            "Dromedarius",
+                            "Paracamelus",
+                            "Paracamelus arenicola"
+                        ],
+                        "tax_sources": [
+                            "ncbi:9836",
+                            "gbif:2441236",
+                            "irmng:1275636"
+                        ],
+                        "unique_name": "Camelus"
+                    }
+                }
+            ],
+            "name": "camelus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Vitis vinifera",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "vitis vinifera",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Vitis vinifera",
+                        "ott_id": 756728,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Cissus vinifera",
+                            "Vitis alexandrina",
+                            "Vitis apiana",
+                            "Vitis apiifolia",
+                            "Vitis apyrena",
+                            "Vitis cebennensis",
+                            "Vitis corinthiaca",
+                            "Vitis cylindrica",
+                            "Vitis densiflora",
+                            "Vitis farinosa",
+                            "Vitis guilelmi",
+                            "Vitis isabella",
+                            "Vitis labrusca",
+                            "Vitis laciniosa",
+                            "Vitis laxiflora",
+                            "Vitis mensarum",
+                            "Vitis moschata",
+                            "Vitis praecox",
+                            "Vitis saccharina",
+                            "Vitis silvestris",
+                            "Vitis sinuosa",
+                            "Vitis succinea",
+                            "Vitis tinctoria",
+                            "Vitis turbinata",
+                            "Vitis vinifera sativa",
+                            "Vitis vinifera subsp. vinifera",
+                            "Vitis virgiliana"
+                        ],
+                        "tax_sources": [
+                            "ncbi:29760",
+                            "gbif:5372392",
+                            "irmng:10592411"
+                        ],
+                        "unique_name": "Vitis vinifera"
+                    }
+                },
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Vitis vinifera",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "vitis vinifera",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Vitis aestivalis",
+                        "ott_id": 329911,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Cissus labrusca",
+                            "Vitis aestivalis sinuata",
+                            "Vitis aestivalis smalliana",
+                            "Vitis araneosa",
+                            "Vitis argentifolia",
+                            "Vitis bicolor",
+                            "Vitis bifida",
+                            "Vitis fulva",
+                            "Vitis glareosa",
+                            "Vitis intermedia",
+                            "Vitis labrusca",
+                            "Vitis labrusca aestivalis",
+                            "Vitis labruscoides",
+                            "Vitis laciniosa",
+                            "Vitis lecontiana",
+                            "Vitis lincecumii",
+                            "Vitis linsecomii glauca",
+                            "Vitis multiloba",
+                            "Vitis rufotomentosa",
+                            "Vitis saxatilis",
+                            "Vitis serotina",
+                            "Vitis simpsonii",
+                            "Vitis sinuata",
+                            "Vitis slavinii",
+                            "Vitis smalliana",
+                            "Vitis ursina",
+                            "Vitis vinifera",
+                            "Vitis vinifera aestivalis",
+                            "Vitis virginiana",
+                            "Vitis vulpina"
+                        ],
+                        "tax_sources": [
+                            "ncbi:3605",
+                            "gbif:5372400",
+                            "irmng:10453759"
+                        ],
+                        "unique_name": "Vitis aestivalis"
+                    }
+                }
+            ],
+            "name": "vitis vinifera"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Ostracodermi",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "ostracodermi",
+                    "taxon": {
+                        "flags": [
+                            "hidden",
+                            "barren",
+                            "extinct",
+                            "incertae_sedis",
+                            "sibling_higher"
+                        ],
+                        "is_suppressed": true,
+                        "is_suppressed_from_synth": true,
+                        "name": "Ostracodermi",
+                        "ott_id": 5292522,
+                        "rank": "no rank",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["irmng:1429"],
+                        "unique_name": "Ostracodermi"
+                    }
+                }
+            ],
+            "name": "ostracodermi"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Boreostereaceae",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "boreostereaceae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Gloeophyllaceae",
+                        "ott_id": 247829,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Boreostereaceae"],
+                        "tax_sources": [
+                            "if:81777",
+                            "ncbi:452340",
+                            "gbif:8462",
+                            "irmng:106964"
+                        ],
+                        "unique_name": "Gloeophyllaceae"
+                    }
+                }
+            ],
+            "name": "boreostereaceae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Trichomyces",
+                    "nomenclature_code": "ICN",
+                    "score": 0.8181818127632141,
+                    "search_string": "trichomycetes",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Trichophyton",
+                        "ott_id": 364220,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Achorion",
+                            "Aleurosporia",
+                            "Arthrosporia",
+                            "Bodinia",
+                            "Chlamydoaleurosporia",
+                            "Ectotrichophyton",
+                            "Endodermophyton",
+                            "Favotrichophyton",
+                            "Grubyella",
+                            "Kaufmannwolfia",
+                            "Keratinomyces",
+                            "Langeronia",
+                            "Lophophyton",
+                            "Megatrichophyton",
+                            "Microides",
+                            "Microtrichophyton",
+                            "Neotrichophyton",
+                            "Pinoyella",
+                            "Sabouraudiella",
+                            "Schoenleinium",
+                            "Spiralia",
+                            "Trichomyces",
+                            "Vanbreuseghemia"
+                        ],
+                        "tax_sources": [
+                            "if:10292",
+                            "ncbi:1916090",
+                            "ncbi:2081530",
+                            "ncbi:310491",
+                            "ncbi:5550",
+                            "gbif:2595868",
+                            "gbif:2595985",
+                            "irmng:1449707",
+                            "irmng:1097227"
+                        ],
+                        "unique_name": "Trichophyton"
+                    }
+                }
+            ],
+            "name": "trichomycetes"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": true,
+                    "is_synonym": false,
+                    "matched_name": "Baleini",
+                    "nomenclature_code": "ICZN",
+                    "score": 0.8571428656578064,
+                    "search_string": "ballini",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Baleini",
+                        "ott_id": 187067,
+                        "rank": "tribe",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:1162416"],
+                        "unique_name": "Baleini"
+                    }
+                }
+            ],
+            "name": "ballini"
+        },
+        {
+            "matches": [],
+            "name": "itatini"
+        },
+        {
+            "matches": [],
+            "name": "rudrini"
+        },
+        {
+            "matches": [],
+            "name": "zenodorini"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Accipiter griseiceps",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "accipiter griseiceps",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Accipiter griseiceps",
+                        "ott_id": 3596225,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["gbif:9794986", "irmng:10190437"],
+                        "unique_name": "Accipiter griseiceps"
+                    }
+                }
+            ],
+            "name": "accipiter griseiceps"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Scopula imitaria",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "scopula imitaria",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Scopula imitaria",
+                        "ott_id": 878693,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Acidalia imitaria", "Geometra imitaria"],
+                        "tax_sources": [
+                            "ncbi:190359",
+                            "gbif:8014296",
+                            "irmng:11118019"
+                        ],
+                        "unique_name": "Scopula imitaria"
+                    }
+                }
+            ],
+            "name": "scopula imitaria"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Lactobacillus acidophilus",
+                    "nomenclature_code": "ICNP",
+                    "score": 1.0,
+                    "search_string": "lactobacillus acidophilus",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Lactobacillus acidophilus",
+                        "ott_id": 487693,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Bacillus acidophilus",
+                            "Lactobacillus acidophilus B6T7",
+                            "Lactobacillus sp. JCM 1033",
+                            "Lactobacillus sp. JCM 1034",
+                            "Lactobacillus sp. JCM 1035",
+                            "Thermobacterium intestinale"
+                        ],
+                        "tax_sources": [
+                            "silva:JF714945",
+                            "ncbi:1579",
+                            "gbif:7485397",
+                            "irmng:10034123"
+                        ],
+                        "unique_name": "Lactobacillus acidophilus"
+                    }
+                }
+            ],
+            "name": "lactobacillus acidophilus"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Reduncinae",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "reduncinae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Reduncinae",
+                        "ott_id": 513800,
+                        "rank": "subfamily",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:59549"],
+                        "unique_name": "Reduncinae"
+                    }
+                }
+            ],
+            "name": "reduncinae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": true,
+                    "matched_name": "Vivianiaceae",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "vivianiaceae",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Francoaceae",
+                        "ott_id": 126944,
+                        "rank": "family",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Bersamaceae",
+                            "Greyiaceae",
+                            "Ledocarpaceae",
+                            "Melianthaceae",
+                            "Rhynchothecaceae",
+                            "Vivianiaceae",
+                            "Xerophyllaceae"
+                        ],
+                        "tax_sources": [
+                            "ncbi:85174",
+                            "gbif:3230710",
+                            "gbif:3231985",
+                            "gbif:4924809",
+                            "irmng:115497",
+                            "irmng:113486"
+                        ],
+                        "unique_name": "Francoaceae"
+                    }
+                }
+            ],
+            "name": "vivianiaceae"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Sphyrna",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "sphyrna",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Sphyrna",
+                        "ott_id": 218578,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Spyrna", "Zygaena"],
+                        "tax_sources": ["ncbi:7822", "worms:105730"],
+                        "unique_name": "Sphyrna"
+                    }
+                }
+            ],
+            "name": "sphyrna"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Pan",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "pan",
+                    "taxon": {
+                        "flags": ["sibling_higher"],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Pan",
+                        "ott_id": 417957,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Andropithecus",
+                            "Anthropithecus",
+                            "Anthropopithecus",
+                            "Antropopithecus",
+                            "Bonobo",
+                            "Chimpansee",
+                            "Chimpanzee",
+                            "Engeco",
+                            "Fsihego",
+                            "Hylanthropus",
+                            "Mimeles",
+                            "Mimetes",
+                            "Pan sp. WO2005014654",
+                            "Pan sp. WO2007026120",
+                            "Pongo",
+                            "Pseudanthropos",
+                            "Satyrus",
+                            "Theranthropus",
+                            "Troglodytes"
+                        ],
+                        "tax_sources": [
+                            "ncbi:9596",
+                            "gbif:2436437",
+                            "irmng:1392385"
+                        ],
+                        "unique_name": "Pan"
+                    }
+                }
+            ],
+            "name": "pan"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Anisoptera",
+                    "nomenclature_code": "ICN",
+                    "score": 1.0,
+                    "search_string": "anisoptera",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Anisoptera",
+                        "ott_id": 861296,
+                        "rank": "genus",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:64577",
+                            "gbif:3233915",
+                            "irmng:1310449"
+                        ],
+                        "unique_name": "Anisoptera (genus in kingdom Archaeplastida)"
+                    }
+                },
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Anisoptera",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "anisoptera",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Anisoptera",
+                        "ott_id": 568999,
+                        "rank": "infraorder",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": ["ncbi:6962", "worms:890522"],
+                        "unique_name": "Anisoptera (infraorder in infraclass Palaeoptera)"
+                    }
+                }
+            ],
+            "name": "anisoptera"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Caenogastropoda",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "caenogastropoda",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Caenogastropoda",
+                        "ott_id": 272321,
+                        "rank": "subclass",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Mesogastropoda"],
+                        "tax_sources": [
+                            "worms:224570",
+                            "ncbi:69555",
+                            "irmng:10426"
+                        ],
+                        "unique_name": "Caenogastropoda"
+                    }
+                }
+            ],
+            "name": "caenogastropoda"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Triops cancriformis",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "triops cancriformis",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Triops cancriformis",
+                        "ott_id": 176180,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Apus cancriformis"],
+                        "tax_sources": [
+                            "ncbi:194544",
+                            "gbif:2235058",
+                            "irmng:10236257"
+                        ],
+                        "unique_name": "Triops cancriformis"
+                    }
+                }
+            ],
+            "name": "triops cancriformis"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Cepaea nemoralis",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "cepaea nemoralis",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Cepaea nemoralis",
+                        "ott_id": 891883,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [
+                            "Helix nemoralis",
+                            "Stylommatophora sp. BOLD:AAG1590"
+                        ],
+                        "tax_sources": [
+                            "worms:235792",
+                            "ncbi:28835",
+                            "gbif:2294280",
+                            "irmng:10235748"
+                        ],
+                        "unique_name": "Cepaea nemoralis"
+                    }
+                }
+            ],
+            "name": "cepaea nemoralis"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Milvus migrans",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "milvus migrans",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Milvus migrans",
+                        "ott_id": 548448,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Falco migrans", "Falco niger"],
+                        "tax_sources": [
+                            "ncbi:52810",
+                            "worms:212678",
+                            "irmng:10458086"
+                        ],
+                        "unique_name": "Milvus migrans"
+                    }
+                }
+            ],
+            "name": "milvus migrans"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Galago senegalensis",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "galago senegalensis",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Galago senegalensis",
+                        "ott_id": 863751,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": [],
+                        "tax_sources": [
+                            "ncbi:9465",
+                            "gbif:9198359",
+                            "irmng:10709746"
+                        ],
+                        "unique_name": "Galago senegalensis"
+                    }
+                }
+            ],
+            "name": "galago senegalensis"
+        },
+        {
+            "matches": [
+                {
+                    "is_approximate_match": false,
+                    "is_synonym": false,
+                    "matched_name": "Perisoreus canadensis",
+                    "nomenclature_code": "ICZN",
+                    "score": 1.0,
+                    "search_string": "perisoreus canadensis",
+                    "taxon": {
+                        "flags": [],
+                        "is_suppressed": false,
+                        "is_suppressed_from_synth": false,
+                        "name": "Perisoreus canadensis",
+                        "ott_id": 906628,
+                        "rank": "species",
+                        "source": "ott3.6draft1",
+                        "synonyms": ["Corvus canadensis"],
+                        "tax_sources": [
+                            "ncbi:54573",
+                            "gbif:2482436",
+                            "irmng:10195560"
+                        ],
+                        "unique_name": "Perisoreus canadensis"
+                    }
+                }
+            ],
+            "name": "perisoreus canadensis"
+        }
+    ],
+    "unmatched_names": [
+        "human herpesvirus",
+        "herpesvirales",
+        "vaccinium subg.",
+        "inioidea",
+        "prokaryota",
+        "caudovirales",
+        "dicotyledones",
+        "theope sticheli",
+        "cytomegalovirus",
+        "vaccinium sect.",
+        "aloe ruffingiana",
+        "picornavirales",
+        "tymoviridae",
+        "rubus subg.",
+        "tethytheria",
+        "ratitae",
+        "itatini",
+        "rudrini",
+        "zenodorini"
+    ]
+}
